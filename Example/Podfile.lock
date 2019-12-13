@@ -1,0 +1,27 @@
+PODS:
+  - DeviceKit (2.3.0)
+  - Hue (5.0.0)
+  - MMFoundationExtentionMoudle (1.0.0):
+    - DeviceKit
+    - Hue
+
+DEPENDENCIES:
+  - MMFoundationExtentionMoudle (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - DeviceKit
+    - Hue
+
+EXTERNAL SOURCES:
+  MMFoundationExtentionMoudle:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DeviceKit: da103891aa928d89f64ea8dd8aca738c5f3d8ac0
+  Hue: c129cb67be7d093a82bbbc30ce8a96757bf6f37a
+  MMFoundationExtentionMoudle: 413f853ce2225028851df1aa2cba64553561eab7
+
+PODFILE CHECKSUM: 0fb9a745b83e795dac290f75ccd5640e8874119a
+
+COCOAPODS: 1.8.4

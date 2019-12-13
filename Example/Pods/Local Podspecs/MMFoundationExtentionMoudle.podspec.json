@@ -1,0 +1,33 @@
+{
+  "name": "MMFoundationExtentionMoudle",
+  "version": "1.0.0",
+  "summary": "MMFoundationExtentionMoudle 使用在帮助开发快速进行集成相应的脚手架，作为快速将开发的脚手架，现在完成了一些基本框架搭建。后续会不断完善。",
+  "swift_versions": "4.0",
+  "description": "MMFoundationExtentionMoudle 用于针对swift的UIKit、Foundation等框架需要用的扩展，对于这些扩展需要不断完善，后续会慢慢完善。",
+  "homepage": "https://github.com/Bogon/MMFoundationExtentionMoudle",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Bogon": "zhangqixcu@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Bogon/MMFoundationExtentionMoudle.git",
+    "tag": "1.0.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "requires_arc": true,
+  "source_files": "MMFoundationExtentionMoudle/Classes/**/*",
+  "dependencies": {
+    "Hue": [
+
+    ],
+    "DeviceKit": [
+
+    ]
+  },
+  "swift_version": "4.0"
+}

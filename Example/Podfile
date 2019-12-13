@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'MMFoundationExtentionMoudle_Example' do
+  pod 'MMFoundationExtentionMoudle', :path => '../'
+
+  target 'MMFoundationExtentionMoudle_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

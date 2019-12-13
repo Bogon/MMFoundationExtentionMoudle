@@ -1,0 +1,6 @@
+framework module MMFoundationExtentionMoudle {
+  umbrella header "MMFoundationExtentionMoudle-umbrella.h"
+
+  export *
+  module * { export * }
+}
