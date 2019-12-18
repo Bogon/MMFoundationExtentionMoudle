@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'MMFoundationExtentionMoudle'
-  s.version          = '1.0.0'
+  s.version          = '1.0.1'
   s.summary          = 'MMFoundationExtentionMoudle 使用在帮助开发快速进行集成相应的脚手架，作为快速将开发的脚手架，现在完成了一些基本框架搭建。后续会不断完善。'
   s.swift_version    = '4.0'
   
